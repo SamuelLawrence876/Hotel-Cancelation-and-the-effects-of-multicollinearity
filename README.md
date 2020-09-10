@@ -26,8 +26,6 @@ The intial objective of this project was to create a simple model based on the k
 * Pandas
 * Numpy
 * Matplotlib
-* Nltk
-* Seaborn 
 * Sklearn
 
 ## Project Description
