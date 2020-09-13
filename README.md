@@ -13,7 +13,7 @@
 - [x] Tweak Model
 
 ## Project Intro
-The intial objective of this project was to create a simple model based on the kaggle data - https://www.kaggle.com/jessemostipak/hotel-booking-demand. After further analysis a model was created and tweaked based on the fact that the model scored 100% due to the effects of multicollinearity
+The initial objective of this project was to create a simple model based on the kaggle data - https://www.kaggle.com/jessemostipak/hotel-booking-demand. After further analysis a model was created and tweaked based on the fact that the model scored 100% due to the effects of multicollinearity.
 
 ### Methods Used
 * Data Analysis
@@ -32,7 +32,7 @@ The intial objective of this project was to create a simple model based on the k
 Hotels lose millions of dollars every year from the time spent on recovering from losses from people canceling their vacations. This project seeks to step in the direction of isolating the people who are likely to cancel and analyse what indicators lead to this.
 
 ## Business Implications
-Upon isolating people who are likely to cancel their vacations, business can aim to target these persons with products/incentives that ease the burden of losses in a way that isnt cutting profits from people who are willing and already paying full price
+Upon isolating people who are likely to cancel their vacations, business can aim to target these persons with products/incentives that ease the burden of losses in a way that isn't cutting profits from people who are willing and already paying full price
 
 ## Key findings
 - The summer months are the biggest travel periods with winter months being the least popular
